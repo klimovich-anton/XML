@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<new>
+    <firstname>Anton</firstname>
+    <lastname>Klimovich</lastname>
+    <age>29</age>
+    <education>
+        <unevercity>BSU</unevercity>
+        <faculty>historical</faculty>
+        <major>information management</major>
+        <skills>history</skills>
+        <skills>national and international information standards</skills>
+        <skills>document management</skills>
+        <skills>electronic document management</skills>
+        <skills>business analysis</skills>
+        <skills>document archives</skills>
+    </education>
+    <work>
+        <company>Minsk Agency for State Registration and Land Cadastre</company>
+        <term>2014-2022</term>
+        <duties>safekeeping of documents</duties>
+        <duties>issuance of files from the archive</duties>
+        <duties>acceptance of files in storage</duties>
+        <duties>ensuring the activities of the archive</duties>
+        <duties>communication with company departments</duties>
+    </work>
+    <Expected_salary>400$</Expected_salary>
+    <pets>
+        <name>zhuzha</name>
+        <type>dog</type>
+        <age>3</age>
+        <total_amount>1</total_amount>
+    </pets>
+    <pets>
+        <name>murka</name>
+        <type>cat</type>
+        <age>7</age>
+        <total_amount>1</total_amount>
+    </pets>
+    <pets>
+        <name>zhorik</name>
+        <type>bull</type>
+        <age>1</age>
+        <total_amount>1</total_amount>
+    </pets>
+    <pets>
+        <name>zhu-zhu</name>
+        <type>bee</type>
+        <age>15</age>
+        <total_amount>47</total_amount>
+    </pets>
+    <transport>
+        <type>bikeсycle</type>
+        <model>Stels</model>
+        <model>Orlenok</model>
+        <model>Java</model>
+        <total_amount>3</total_amount>
+    </transport>
+    <transport>
+        <type>motorсycle</type>
+        <model>SYM</model>
+        <model>Honda</model>
+        <model>Minsk</model>
+        <model>Kharcov</model>
+        <total_amount>4</total_amount>
+    </transport>
+    <transport>
+        <type>automobile</type>
+        <model>Honda</model>
+        <model>Lada</model>
+        <model>UAZ</model>
+        <model>Skoda</model>
+        <model>ZAZ</model>
+        <total_amount>5</total_amount>
+    </transport>
+</new>
