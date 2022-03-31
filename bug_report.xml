@@ -1,0 +1,20 @@
+<bug_report>
+  <id>15.2283</id>
+  <title>Поиск товара на главной странице сайта с использованием русских слов не отображает товары</title>
+  <project>https://molodechnomebel.by/</project>
+  <component>Поиск товара</component>
+  <version>1.02</version>
+  <severity>S3 Значительная</severity>
+  <priority>P1 высокий</priority>
+  <status>новый</status>
+  <autor>Антон Климович</autor>
+  <executor>Демченко Иван</executor>
+  <playback_steps>
+    <step_1>Открываешь главную страницу сайта https://molodechnomebel.by/</step_1>
+    <step_2>Справа вверху находишь пустую строку поиска (см скрин, выделено красной рамкой</step_2>
+    <step_3>Введи поисковое слово ДИВАНЫ </step_3>
+    <step_4>Нажми кнопку найти в виде лупы на поисковой строке</step_4>
+  </playback_steps>
+  <actual_result>Результаты поиска не соответствуют поисковому запросу (см скрин, выделено оранжевой рамкой</actual_result>
+  <expected_result>Поиск прошел удачно, товар ДИВАНЫ отображены в каталоге по результатам поиска</expected_result>
+</bug_report>
