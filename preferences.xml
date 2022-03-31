@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<preferences>
+    <my_favorite_movies>
+        <skarry_movies>Scream</skarry_movies>
+        <skarry_movies>Ready or Not</skarry_movies>
+        <skarry_movies>Malignant</skarry_movies>
+        <comedy>Bad Luck Banging or Looney Porn</comedy>
+        <comedy>Bad Luck Banging or Looney Porn</comedy>
+        <comedy>Good Boys</comedy>
+        <historical_films>Frida</historical_films>
+        <historical_films>Apocalypse now</historical_films>
+        <historical_films>Appolo 13</historical_films>
+    </my_favorite_movies>
+    <my_favorite_serial>Chernobyl</my_favorite_serial>
+    <my_favorite_cartoon>Pig Peppa</my_favorite_cartoon>
+    <my_favorite_cartoon>Finding Nemo</my_favorite_cartoon>
+    <my_favorite_food>
+        <spicy_food>Spicy Shrimp Pasta Salad</spicy_food>
+        <spicy_food>Gochujang Mayonnaise</spicy_food>
+        <spicy_food>Spicy Mexican Pasta Salad</spicy_food>
+        <sweet_food>honey</sweet_food>
+        <sweet_food>cake</sweet_food>
+        <sweet_food>sugar</sweet_food>
+        <meat>lamb</meat>
+        <meat>beef</meat>
+        <meat>oysters</meat>
+    </my_favorite_food>
+    <my_favorite_time_of_year>summer</my_favorite_time_of_year>
+    <my_favorite_time_of_year>winter</my_favorite_time_of_year>
+    <desired_country_to_visit>Austria</desired_country_to_visit>
+</preferences>

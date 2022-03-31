@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+    <my_future_skills>
+        <softskills>communication skills</softskills>
+        <softskills>creativity</softskills>
+        <softskills>stress resistance</softskills>
+        <softskills>responsibility</softskills>
+        <softskills>curiosity</softskills>
+        <softskills>the ability to ask questions</softskills>
+        <softskills>the ability to adequately describe bugs</softskills>
+        <softskills>the ability to write algorithmically simple test cases</softskills>
+        <softskills>the ability to rank defects by importance</softskills>
+        <softskills>discipline</softskills>
+        <hard>
+            <web>html, css, web form testing, devtools</web>
+        </hard>
+        <hard>
+            <data_base>postgreeSQL, mySQL</data_base>
+        </hard>
+        <hard>
+            <programming_language>basic java script</programming_language>
+            <programming_language>basic java</programming_language>
+        </hard>
+        <hard>
+            <software>
+                <testing_API>postman</testing_API>
+            </software>
+            <software>
+                <traffic_interception>charles</traffic_interception>
+            </software>
+            <software>
+                <stress_testing>jmeter</stress_testing>
+            </software>
+            <software>
+                <writing_test_documentation>checklists</writing_test_documentation>
+                <writing_test_documentation>test_cases</writing_test_documentation>
+                <writing_test_documentation>bug reports</writing_test_documentation>
+            </software>
+        </hard>
+        <hard>
+            <types_of_testing>
+                <by_code_availability>black box testing</by_code_availability>
+                <by_code_availability>grey box testing</by_code_availability>
+                <by_code_availability>white box testing</by_code_availability>
+            </types_of_testing>
+            <types_of_testing>
+                <by_positivity>positive testing</by_positivity>
+                <by_positivity>negative testing</by_positivity>
+            </types_of_testing>
+            <types_of_testing>
+                <by_time>alpha testing</by_time>
+                <by_time>beta testing</by_time>
+                <by_time>smoke test</by_time>
+                <by_time>confidence test</by_time>
+                <by_time>new leature test</by_time>
+                <by_time>regression test</by_time>
+                <by_time>acceptanse test</by_time>
+            </types_of_testing>
+            <types_of_testing>
+                <by_test_levels>component testing</by_test_levels>
+                <by_test_levels>integration test</by_test_levels>
+                <by_test_levels>system or end to end testing</by_test_levels>
+            </types_of_testing>
+            <types_of_testing>
+                <by_automation>component testing</by_automation>
+                <by_automation>automation testing</by_automation>
+                <by_automation>semi automation testing</by_automation>
+            </types_of_testing>
+            <types_of_testing>
+                <by_degree_of_preparation>documented testing</by_degree_of_preparation>
+                <by_degree_of_preparation>ad hoc testing</by_degree_of_preparation>
+            </types_of_testing>
+            <types_of_testing>
+                <by_subject>alfa tester</by_subject>
+                <by_subject>beta-tester</by_subject>
+            </types_of_testing>
+            <types_of_testing>
+                <by_object_testing>UI testing</by_object_testing>
+                <by_object_testing>localization testing</by_object_testing>
+                <by_object_testing>speed and stress and perfomance testing</by_object_testing>
+                <by_object_testing>security testing</by_object_testing>
+                <by_object_testing>UX testing</by_object_testing>
+                <by_object_testing>compatibility testing</by_object_testing>
+            </types_of_testing>
+            <types_of_testing>
+                <functional_testing>
+                    <functionality_testing>requirements</functionality_testing>
+                    <functionality_testing>business processes</functionality_testing>
+                    <security_and_acces_control_testing>confidentiality</security_and_acces_control_testing>
+                    <security_and_acces_control_testing>integrity</security_and_acces_control_testing>
+                    <security_and_acces_control_testing>availability</security_and_acces_control_testing>
+                    <interoperability_testing>compatibility</interoperability_testing>
+                    <interoperability_testing>integration</interoperability_testing>
+                </functional_testing>
+            </types_of_testing>
+        </hard>
+    </my_future_skills>
+</skills>
